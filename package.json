@@ -1,0 +1,17 @@
+{
+  "name": "searchserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3",
+    "request": "^2.87.0",
+    "supervisor": "^0.12.0"
+  }
+}
